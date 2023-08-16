@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "implementation",
+    "type": "java.lang.String",
+    "description": "A description for 'implementation'"
+  },
+  {
+    "name": "implementation",
+    "type": "java.lang.String",
+    "description": "A description for 'implementation'"
+  },
+  {
+    "name": "management.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.exposure.include'"
+  }
+]}
